@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("hello epithetomas\n");
+  printf("hello unix\n");
   return 0;
 }
