@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("goodbye 2025\n");
+  printf("1\n");
   return 0;
 }
