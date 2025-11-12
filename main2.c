@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("hello unix\n");
+  printf("goodbye 2025\n");
   return 0;
 }
